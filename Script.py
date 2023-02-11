@@ -206,7 +206,7 @@ Message <b>: {}</b>"""
 
 🖇 <em>File Size</em>: <code>{file_size}</code> 
 
-❤️‍🔥 </i>Join</i> [𝗕𝗟𝗔𝗦𝗧𝗘𝗥 𝗟𝗜𝗡𝗞𝗭](https://t.me/vipmoviez)  
+❤️‍🔥 </i>Join</i> [Vipmoviez](https://t.me/vipmoviez)  
 
 🖥 <i>Requests</i> - ||@Vipmoviezchats|| """
 
