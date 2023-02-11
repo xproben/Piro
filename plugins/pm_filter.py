@@ -108,7 +108,7 @@ async def next_page(bot, query):
         if settings['auto_delete']:
             btn.insert(0, 
             [
-                InlineKeyboardButton(f'😇 Info', '𝗧𝗵𝗲 𝗚𝗶𝘃𝗲 𝗥𝗲𝘀𝘂𝗹𝘁 𝘄𝗶𝗹𝗹 𝗯𝗲 𝗗𝗲𝗹𝗲𝘁𝗲𝗱 𝗶𝗻 5 𝗠𝗶𝗻𝘂𝘁𝗲𝘀🗑 𝗧𝗼 𝗣𝗿𝗲𝘃𝗲𝗻𝘁 𝗖𝗼𝗽𝘆𝗿𝗶𝗴𝗵𝘁 𝗜𝗳 𝘁𝗵𝗲 𝗙𝗶𝗹𝗲 𝘄𝗮𝘀 𝗡𝗼𝘁 𝗙𝗼𝘂𝗻𝗱 𝗔𝘀𝗸 𝘁𝗼 𝗔𝗱𝗺𝗶𝗻 𝗦𝗼, 𝗦𝗼𝗼𝗻 𝗙𝗼𝗿𝘄𝗮𝗿𝗱 𝘁𝗵𝗲 𝗙𝗶𝗹𝗲𝘀.. 𝗣𝗼𝘄𝗲𝗿𝗲𝗱 𝗕𝘆 ©️VipMoviez'),
+                InlineKeyboardButton(f'😇 Info', 'tips'),
                 InlineKeyboardButton(f'📝 𝖳𝗂𝗉𝗌', 'info')
             ]
             )
@@ -116,7 +116,7 @@ async def next_page(bot, query):
         else:
             btn.insert(0, 
             [
-                InlineKeyboardButton(f'😇 Info', '𝗧𝗵𝗲 𝗚𝗶𝘃𝗲 𝗥𝗲𝘀𝘂𝗹𝘁 𝘄𝗶𝗹𝗹 𝗯𝗲 𝗗𝗲𝗹𝗲𝘁𝗲𝗱 𝗶𝗻 5 𝗠𝗶𝗻𝘂𝘁𝗲𝘀🗑 𝗧𝗼 𝗣𝗿𝗲𝘃𝗲𝗻𝘁 𝗖𝗼𝗽𝘆𝗿𝗶𝗴𝗵𝘁 𝗜𝗳 𝘁𝗵𝗲 𝗙𝗶𝗹𝗲 𝘄𝗮𝘀 𝗡𝗼𝘁 𝗙𝗼𝘂𝗻𝗱 𝗔𝘀𝗸 𝘁𝗼 𝗔𝗱𝗺𝗶𝗻 𝗦𝗼, 𝗦𝗼𝗼𝗻 𝗙𝗼𝗿𝘄𝗮𝗿𝗱 𝘁𝗵𝗲 𝗙𝗶𝗹𝗲𝘀.. 𝗣𝗼𝘄𝗲𝗿𝗲𝗱 𝗕𝘆 ©️VipMoviez'),
+                InlineKeyboardButton(f'😇 Info', 'tips'),
                 InlineKeyboardButton(f'📝 𝖳𝗂𝗉𝗌', 'info')
             ]
             )
@@ -128,7 +128,7 @@ async def next_page(bot, query):
         if settings['auto_delete']:
             btn.insert(0, 
             [
-                InlineKeyboardButton(f'😇 Info', '𝗧𝗵𝗲 𝗚𝗶𝘃𝗲 𝗥𝗲𝘀𝘂𝗹𝘁 𝘄𝗶𝗹𝗹 𝗯𝗲 𝗗𝗲𝗹𝗲𝘁𝗲𝗱 𝗶𝗻 5 𝗠𝗶𝗻𝘂𝘁𝗲𝘀🗑 𝗧𝗼 𝗣𝗿𝗲𝘃𝗲𝗻𝘁 𝗖𝗼𝗽𝘆𝗿𝗶𝗴𝗵𝘁 𝗜𝗳 𝘁𝗵𝗲 𝗙𝗶𝗹𝗲 𝘄𝗮𝘀 𝗡𝗼𝘁 𝗙𝗼𝘂𝗻𝗱 𝗔𝘀𝗸 𝘁𝗼 𝗔𝗱𝗺𝗶𝗻 𝗦𝗼, 𝗦𝗼𝗼𝗻 𝗙𝗼𝗿𝘄𝗮𝗿𝗱 𝘁𝗵𝗲 𝗙𝗶𝗹𝗲𝘀.. 𝗣𝗼𝘄𝗲𝗿𝗲𝗱 𝗕𝘆 ©️VipMoviez'),
+                InlineKeyboardButton(f'😇 Info', 'tips'),
                 InlineKeyboardButton(f'📝 𝖳𝗂𝗉𝗌', 'info')
             ]
             )
@@ -136,7 +136,7 @@ async def next_page(bot, query):
         else:
             btn.insert(0, 
             [
-                InlineKeyboardButton(f'😇 Info', '𝗧𝗵𝗲 𝗚𝗶𝘃𝗲 𝗥𝗲𝘀𝘂𝗹𝘁 𝘄𝗶𝗹𝗹 𝗯𝗲 𝗗𝗲𝗹𝗲𝘁𝗲𝗱 𝗶𝗻 5 𝗠𝗶𝗻𝘂𝘁𝗲𝘀🗑 𝗧𝗼 𝗣𝗿𝗲𝘃𝗲𝗻𝘁 𝗖𝗼𝗽𝘆𝗿𝗶𝗴𝗵𝘁 𝗜𝗳 𝘁𝗵𝗲 𝗙𝗶𝗹𝗲 𝘄𝗮𝘀 𝗡𝗼𝘁 𝗙𝗼𝘂𝗻𝗱 𝗔𝘀𝗸 𝘁𝗼 𝗔𝗱𝗺𝗶𝗻 𝗦𝗼, 𝗦𝗼𝗼𝗻 𝗙𝗼𝗿𝘄𝗮𝗿𝗱 𝘁𝗵𝗲 𝗙𝗶𝗹𝗲𝘀.. 𝗣𝗼𝘄𝗲𝗿𝗲𝗱 𝗕𝘆 ©️VipMoviez'),
+                InlineKeyboardButton(f'😇 Info', 'tips'),
                 InlineKeyboardButton(f'📝 𝖳𝗂𝗉𝗌', 'info')
             ]
             )
@@ -523,7 +523,7 @@ async def cb_handler(client: Client, query: CallbackQuery):
                         file_id=file_id,
                         caption=f_caption,
                         protect_content=True if ident == "filep" else False,
-                        reply_markup=InlineKeyboardMarkup( [ [ InlineKeyboardButton('⚔️ Updates ⚔️', url="https://t.me/Vipmovies") ] ] ))
+                        reply_markup=InlineKeyboardMarkup( [ [ InlineKeyboardButton('⚔️ Updates ⚔️', url="https://t.me/Vipmoviez") ] ] ))
                 else:
                     await query.answer(f"𝖧𝖾𝗒 {query.from_user.first_name}, 𝖳𝗁𝗂𝗌 𝗂𝗌 𝗇𝗈𝗍 𝗒𝗈𝗎𝗋 𝗋𝖾𝗊𝗎𝖾𝗌𝗍 !", show_alert=True)
                 await query.answer('𝖢𝗁𝖾𝖼𝗄 𝖯𝖬, 𝖨 𝗁𝖺𝗏𝖾 𝗌𝖾𝗇𝗍 𝖿𝗂𝗅𝖾𝗌 𝗂𝗇 𝖯𝖬', show_alert=True)
